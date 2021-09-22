@@ -24,5 +24,6 @@ public class App
         System.out.println( "v3.0 003" );
         System.out.println( "v3.0 004" );
         System.out.println( "v3.0 005" );
+        System.out.println( "v3.0 006" );
     }
 }
